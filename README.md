@@ -21,14 +21,14 @@ User Interface:
 - The application features a user-friendly web interface built with Django templates, allowing for easy navigation between album and song management.
 
 ## Technologies Used:
-Python: The core programming language for the application.
+- Python: The core programming language for the application.
 
-Django: The web framework used for developing the application.
+- Django: The web framework used for developing the application.
 
-SQLAlchemy: An ORM used for database interaction and management.
+- SQLAlchemy: An ORM used for database interaction and management.
 
-PostgreSQL: The database system used to store album and song information.
+- PostgreSQL: The database system used to store album and song information.
 
-HTML/CSS: For designing the user interface and styling the application.
+- HTML/CSS: For designing the user interface and styling the application.
 
-Django Forms: For handling user input and validation during album and song creation.
+- Django Forms: For handling user input and validation during album and song creation.
