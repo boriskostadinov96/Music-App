@@ -6,19 +6,19 @@ This is a music web application built with Python using Django as the web framew
 ## Features:
 Album Management:
 
-Users can create, view, edit, and delete music albums. Each album has a name, an image URL, and a price.
+- Users can create, view, edit, and delete music albums. Each album has a name, an image URL, and a price.
 
 Song Management:
 
-Users can add songs to albums. Each song includes a name and a music file, which can be uploaded directly through the application.
+- Users can add songs to albums. Each song includes a name and a music file, which can be uploaded directly through the application.
 
 Music Playback:
 
-Users can play songs directly within the application. Songs are served from the database, allowing for seamless playback.
+- Users can play songs directly within the application. Songs are served from the database, allowing for seamless playback.
 
 User Interface:
 
-The application features a user-friendly web interface built with Django templates, allowing for easy navigation between album and song management.
+- The application features a user-friendly web interface built with Django templates, allowing for easy navigation between album and song management.
 
 ## Technologies Used:
 Python: The core programming language for the application.
